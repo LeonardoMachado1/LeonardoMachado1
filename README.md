@@ -1,6 +1,6 @@
 # 👨‍💻 Leonardo Machado
 
-🎯 **SAP Basis Consultant**  
+🎯 **SAP Basis Anlyst/Consultant**  
 📍 Canoas, RS — Brazil  
 📧 leonardomachado1204@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-machado-sap/)
@@ -18,20 +18,29 @@ I strive to deliver stable and efficient solutions aligned with business goals, 
 ## 🛠️ Technologies & Tools
 
 - **SAP**: HANA, ECC, S4/HANA, FIORI, CAR, PI, SLT, GRC, SOLMAN, EWM  
-- **Operating Systems**: Linux (Red Hat), Windows  
+- **Operating Systems**: Linux (Red Hat and Suse), Windows  
 - **Tools**: WinSCP, SAP Logon, HANA Studio, Xshell, Putty  
 
 ### 🔧 SAP System Administration & Management
 
-- System landscape monitoring  
-- Creation and maintenance of Central User Administration (CUA)  
-- Creation and maintenance of users, roles, and profiles  
-- Monitoring and creation of background jobs  
-- Start/Stop SAP environments  
-- Implementation of SAP Notes using SNOTE  
-- Certificate updates using SLICENSE and STRUST  
-- System reporting: TPO and EWA  
-- Update of ST-PI and ST/A-PI components  
-- Transport request management  
-- Troubleshooting and support for customer issues  
-- Ensuring system stability and performing environment updates
+• Fully allocated as a SAP Infrastructure Analyst at Arezzo&Co and Azzas 2154.
+• Support for SAP environments: ECC, S/4HANA, CAR, EWM, FIORI, GRC, PI, SLT, SOLMAN.
+• Experience in creating monitoring templates using CCMS integrated with Zabbix.
+• Implementation of SAP Notes.
+• Printer configurations.
+• Request management.
+• Dump analysis.
+• Profile configurations.
+• Job maintenance and configuration.
+• RFC configuration and maintenance.
+• Creation and maintenance of access profiles.
+• User creation with profile assignment.
+• Creation, execution, and defense of changes before the change advisory board and incident management.
+• Analysis, correction, and improvements using tools such as TPO, Minichecks, Readiness Check, EWA.
+• Analysis and application of Security Notes.
+• Creation and maintenance of the Central User Administration (CUA).
+• Installation of SAPGUI and application of update patches.
+• Participation in SAP implementation project at Unidasul: CAR, Fiori, S/4HANA.
+• Preparation of SAP documentation: cutover plan, checklists, step-by-step process guides.
+• Application of Support Packages.
+• Ticket Manager.
