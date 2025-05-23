@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo" width="200"/>
-</p>
-
 # 👨‍💻 Leonardo Machado
 
 🎯 **SAP Basis Consultant**  
