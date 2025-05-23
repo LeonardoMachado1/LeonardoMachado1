@@ -1,7 +1,7 @@
 # 👨‍💻 Leonardo Machado
 
 🎯 **SAP Basis Anlyst/Consultant**  
-📍 Canoas, RS — Brazil  
+📍 RS — Brazil  
 📧 leonardomachado1204@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-machado-sap/)
 
